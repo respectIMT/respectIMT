@@ -30,6 +30,27 @@ Men Ibrohimov Muhsinjon mobil dasturchiman. Kotlin va Dart dasturlash tillari or
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat-square)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
 
+## 🌟 Umumiy Statistikalar
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=respectIMT&show_icons=true&theme=radical)
+
+## 📊 Faoliyat Statistikasi
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=respectIMT&theme=tokyo-night)
+
+## 🏆 Yutuqlar
+![Achievements](https://github-profile-trophy.vercel.app/?username=respectIMT&theme=onedark)
+
+## 🔥 Faollik Kartasi
+![GitHub Streak](https://streak-stats.demolab.com?user=respectIMT&theme=highcontrast)
+
+## 👀 Profil Ko‘rishlar
+![](https://komarev.com/ghpvc/?username=respectIMT&color=green)
+
+## 💡 Dasturlash tillari ulushi
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=respectIMT&layout=compact&langs_count=8)
+
+## 🎉 Dinamik Mem
+![Meme](https://random-memer.herokuapp.com/)
+
 ## 📊 Dasturlash tillari statistikasi
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=respectIMT&layout=compact&langs_count=8)
 
