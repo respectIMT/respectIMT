@@ -31,13 +31,12 @@ Men Ibrohimov Muhsinjon mobil dasturchiman. Kotlin va Dart dasturlash tillari or
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
 
 ## 📊 Dasturlash tillari statistikasi
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=respectIMT&layout=compact&langs_count=8)
 
-## 🔧 Asosiy tillar va ulushlari
- ![Dart](https://img.shields.io/badge/Dart-70%25-blue)
- ![Kotlin](https://img.shields.io/badge/Kotlin-20%25-yellow)
- ![C++](https://img.shields.io/badge/C++-10%25-red)
- ![Others](https://img.shields.io/badge/Others-10%25-green)
+![Dart](https://img.shields.io/badge/Dart-70%25-blue)
+![Kotlin](https://img.shields.io/badge/Kotlin-20%25-yellow)
+![C++](https://img.shields.io/badge/C++-10%25-red)
+![Others](https://img.shields.io/badge/Others-10%25-green)
 
 [![respectIMT's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=respectIMT&theme=radical)](https://github.com/respectIMT/github-readme-activity-graph)
 
