@@ -9,7 +9,7 @@ Men Ibrohimov Muhsinjon mobil dasturchiman. Kotlin va Dart dasturlash tillari or
 - 🧑‍🎓 2009-2020 Farg'ona, Buvayda, 24-maktab
 - 🔎 10/2021 - 01/2023 Farg'ona, Codial Academy(Android) 
 - 🎓 2020-2025 Toshkent Davlat Iqtisodiyot universiteti
-- 💰 Hozirda Ishonch kompaniyasida mobil dasturchiman.
+- 💰 07/2023 dan hozirgacha Ishonch kompaniyasida mobil dasturchiman.
 - 💻 Flutter-Dart, Android-Kotlin 
 
 ## Mening xizmatlarim
@@ -23,17 +23,29 @@ Men Ibrohimov Muhsinjon mobil dasturchiman. Kotlin va Dart dasturlash tillari or
 - Bloc, GetX, Provider
 - MVP, MVVM, MVC
 - Dio, Http, Retrofit, Hive
-- Animation, Storage, Routes, Localization, Permissions and others
+- Animation, Storage, Routes, Localization, Firebase, Permissions and others
 
 - ## Sevimli texnologiyalarim
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat-square)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
+
+## 📊 Dasturlash tillari statistikasi
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8)
+
+## 🔧 Asosiy tillar va ulushlari
+- ![Dart](https://img.shields.io/badge/Dart-70%25-blue)
+- ![Kotlin](https://img.shields.io/badge/Kotlin-20%25-yellow)
+- ![C++](https://img.shields.io/badge/C++-10%25-red)
+- ![Others](https://img.shields.io/badge/Others-10%25-green)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Bloglarim yoki portfoliolarim
-- 📝 [Mening blogim](https://t.me/respect_IMT): Flutter bo‘yicha maslahatlar va tajribalar.
-- 🌟 [Portfolio](https://yourportfolio.com): Mening eng yaxshi loyihalarim.
+- ## Ijtimoiy tarmoqlarda
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/respectIMT)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/respect_IMT)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/respectIMT)
+[![Telegram](https://img.shields.io/badge/Telegram-%0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/respect_IMT)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/respect_IMT)
 
-- ![Visitor Count](https://komarev.com/ghpvc/?username=YourUsername&label=Profil%20ziyoratchilari&color=0e75b6&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=YourUsername&label=Profil%20ziyoratchilari&color=0e75b6&style=flat)
