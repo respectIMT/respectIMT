@@ -36,9 +36,6 @@ Men Ibrohimov Muhsinjon mobil dasturchiman. Kotlin va Dart dasturlash tillari or
 ## 🏆 Yutuqlar
 ![Achievements](https://github-profile-trophy.vercel.app/?username=respectIMT&theme=onedark)
 
-## 🔥 Faollik Kartasi
-![GitHub Streak](https://streak-stats.demolab.com?user=respectIMT&theme=highcontrast)
-
 ## 📊 Dasturlash tillari statistikasi
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=respectIMT&layout=compact&langs_count=8)
 
