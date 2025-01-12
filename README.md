@@ -1,4 +1,4 @@
-## Assalumu alaykum barchaga. Shaxsiy github profilimga xush kelibsiz! 👋
+## Assalumu alaykum barchaga. Shaxsiy github profilimga xush kelibsiz!
 
 Men Ibrohimov Muhsinjon mobil dasturchiman. Kotlin va Dart dasturlash tillari orqali Android va IOS operatsion sistemalari uchun dastur yarataman. Asosan Flutter dasturlash muhitida android dasturlar yarataman😊
 
