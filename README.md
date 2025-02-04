@@ -9,7 +9,7 @@ Men Ibrohimov Muhsinjon mobile dasturchiman. Kotlin va Dart dasturlash tillari o
 - 🧑‍🎓 2009-2020 Farg'ona, Buvayda, 24-maktab
 - 🔎 10/2021 - 01/2023 Farg'ona, Codial Academy(Android) 
 - 🎓 2020-2025 Toshkent Davlat Iqtisodiyot universiteti
-- 💰 07/2023 dan hozirgacha Ishonch kompaniyasida mobil dasturchiman.
+- 💰 07/2023 dan hozirgacha Ishonch kompaniyasida mobil dasturchiman
 - 💻 Flutter-Dart, Android-Kotlin 
 
 ## Mening xizmatlarim
